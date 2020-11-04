@@ -12,7 +12,8 @@
 
 [Quiz app](https://github.com/Vincentsarsah/quiz-app)
 <br/>
-background-image: url('pic.jpg') no-repeat;
+background-image: url('pic.jpg') no-repeat
+background-color:#A067AB
 
 You can use the [editor on GitHub](https://github.com/Vincentsarsah/Vincent/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
