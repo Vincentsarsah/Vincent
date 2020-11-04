@@ -1,5 +1,5 @@
 ## Welcome my GitHub Page
-## Below are the links to my various repositories on GigHub
+## Below are the various repositories on GigHub
 
 [Quiz app](https://github.com/Vincentsarsah/quiz-app)
 <br/>
@@ -14,13 +14,6 @@
 <br/>
 
 
-You can use the [editor on GitHub](https://github.com/Vincentsarsah/Vincent/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vincentsarsah/Vincent/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
