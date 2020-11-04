@@ -2,6 +2,9 @@
 ## Below are the links to my various repositories on GigHub
 
 [Quiz app](https://github.com/Vincentsarsah/quiz-app)
+[javascript-essential](https://github.com/Vincentsarsah/javascript-essential-final)
+[reponsive-shop-page](https://github.com/Vincentsarsah/reponsive-shop-page)
+[Quiz app](https://github.com/Vincentsarsah/quiz-app)
 
 You can use the [editor on GitHub](https://github.com/Vincentsarsah/Vincent/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
