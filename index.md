@@ -17,10 +17,10 @@
 
 ### Contact
 
-Email :
 
- [vincent.sarsah@amalitech.org]()
+
+Email :  [vincent.sarsah@amalitech.org]()
  <br/>
- Phone :
- [+233-262-756-294]() 
+Phone :  [+233-262-756-294]()
+ 
 
